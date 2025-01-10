@@ -80,3 +80,11 @@ This project investigates the relationship between social media usage (Instagram
 
 - **Statistical Significance**:
   - The Chi-Square test confirmed no significant deviation from expected usage patterns.
+
+## Technologies Used
+- **Python**:
+  -pandas, numpy for data manipulation.
+  -matplotlib, seaborn for visualization.
+  -statsmodels for statistical analysis.
+  -scikit-learn for regression models.
+  -Jupyter Notebook for interactive analysis.
