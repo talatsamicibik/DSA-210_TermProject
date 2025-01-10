@@ -21,6 +21,10 @@ This project investigates the relationship between social media usage (Instagram
 
 - **Academic Deadlines**:
   - Manually documented as a JSON file, including all key academic events like exams, project deadlines, and homework due dates.
+## Data Files
+- [Download Instagram Usage Data](https://raw.githubusercontent.com/talatsamicibik/DSA-210_TermProject/refs/heads/main/daily_instagram_usage.csv)
+- [Download YouTube Watch Time Data](https://raw.githubusercontent.com/talatsamicibik/DSA-210_TermProject/refs/heads/main/daily_watch_time.csv)
+- [Download Academic Deadlines](https://raw.githubusercontent.com/talatsamicibik/DSA-210_TermProject/refs/heads/main/academic_deadlines.json)
 
 ### Data Preprocessing
 - **Daily Aggregation**:
