@@ -87,4 +87,4 @@ This project investigates the relationship between social media usage (Instagram
   - matplotlib, seaborn for visualization.
   - statsmodels for statistical analysis.
   - scikit-learn for regression models.
-  - Jupyter Notebook for interactive analysis.
+  - Jupyter Notebook for interactive analysis: [Data Refine](https://github.com/talatsamicibik/DSA-210_TermProject/blob/main/Data_Refine.ipynb) [Data Visualisation](https://github.com/talatsamicibik/DSA-210_TermProject/blob/main/visualise.ipynb)
