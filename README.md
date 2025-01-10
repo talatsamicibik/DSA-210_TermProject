@@ -4,7 +4,7 @@
 This project investigates the relationship between social media usage (Instagram and YouTube) and academic deadlines. The goal was to determine whether proximity to deadlines significantly affects daily social media usage.
 
 ## Hypothesis
-**"I tend to use social media more when I am under the inluence of academic stress."**
+**"Social media usage increases as deadlines approach."**
 
 ## Methodology
 
@@ -20,7 +20,7 @@ This project investigates the relationship between social media usage (Instagram
   - Daily usage time was calculated based on video durations and timestamps.
 
 - **Academic Deadlines**:
-  - Manually documented as a JSON file (can be found inside the project documents), including all key academic events like exams, project deadlines, and homework due dates. 
+  - Manually documented as a JSON file, including all key academic events like exams, project deadlines, and homework due dates.
 
 ### Data Preprocessing
 - **Daily Aggregation**:
@@ -55,6 +55,16 @@ This project investigates the relationship between social media usage (Instagram
     - **Critical Value (0.05 significance)**: 23.68
     - **p-value**: 0.9999
     - **Conclusion**: Failed to reject \( H_0 \), indicating **no statistically significant relationship** between social media usage and deadlines.
+
+## Visualizations
+### Regression Analysis
+![Regression Analysis](figures/regression_analysis.png)
+
+### Polynomial Regression
+![Polynomial Regression](figures/polynomial_regression_usage.png)
+
+### Social Media Usage Around Deadlines
+![Usage Around Deadlines]([figures/usage_vs_deadlines.png](https://github.com/talatsamicibik/DSA-210_TermProject/blob/main/regression_usage_around_deadlines.png))
 
 ## Results
 - **Regression Analysis**:
