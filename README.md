@@ -58,7 +58,7 @@ This project investigates the relationship between social media usage (Instagram
 
 ## Visualizations
 ### Regression Analysis
-![Regression Analysis](figures/regression_analysis.png)
+![Regression Analysis](https://github.com/talatsamicibik/DSA-210_TermProject/blob/main/regression_analysis.png)
 
 ### Polynomial Regression
 ![Polynomial Regression](figures/polynomial_regression_usage.png)
