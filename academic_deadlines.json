@@ -1,0 +1,167 @@
+[
+    {
+        "date": "2024-11-02",
+        "event_type": "Take Home",
+        "description": "PA1 of CS307"
+    },
+    {
+        "date": "2024-11-10",
+        "event_type": "Exam",
+        "description": "Midterm of CS307"
+    },
+    {
+        "date": "2024-10-15",
+        "event_type": "Take Home",
+        "description": "HW1 of ENS211"
+    },
+    {
+        "date": "2024-10-30",
+        "event_type": "Take Home",
+        "description": "HW2 of ENS211"
+    },
+    {
+        "date": "2024-11-07",
+        "event_type": "Take Home",
+        "description": "HW3 of ENS211"
+    },
+    {
+        "date": "2024-12-13",
+        "event_type": "Take Home",
+        "description": "HW4 of ENS211"
+    },
+    {
+        "date": "2024-12-25",
+        "event_type": "Take Home",
+        "description": "HW5 of ENS211"
+    },
+    {
+        "date": "2024-12-27",
+        "event_type": "Take Home",
+        "description": "HW6 of ENS211"
+    },
+    {
+        "date": "2024-10-06",
+        "event_type": "Exam",
+        "description": "Midterm of ENS211"
+    },
+    {
+        "date": "2025-01-02",
+        "event_type": "Exam",
+        "description": "Final of ENS211"
+    },
+    {
+        "date": "2024-10-25",
+        "event_type": "Take Home",
+        "description": "HW1 of ENS209"
+    },
+    {
+        "date": "2024-11-01",
+        "event_type": "Take Home",
+        "description": "HW2 of ENS209"
+    },
+    {
+        "date": "2024-11-08",
+        "event_type": "Take Home",
+        "description": "HW3 of ENS209"
+    },
+    {
+        "date": "2024-10-27",
+        "event_type": "Project",
+        "description": "Project Proposal of ENS209"
+    },
+    {
+        "date": "2024-12-01",
+        "event_type": "Project",
+        "description": "Project Progress of ENS209"
+    },
+    {
+        "date": "2024-12-29",
+        "event_type": "Project",
+        "description": "Project Final of ENS209"
+    },
+    {
+        "date": "2024-11-23",
+        "event_type": "Exam",
+        "description": "Midterm of ENS209"
+    },
+    {
+        "date": "2025-01-05",
+        "event_type": "Exam",
+        "description": "Final of ENS209"
+    },
+    {
+        "date": "2024-11-03",
+        "event_type": "Exam",
+        "description": "Midterm I of MATH204"
+    },
+    {
+        "date": "2024-12-01",
+        "event_type": "Exam",
+        "description": "Midterm II of MATH204"
+    },
+    {
+        "date": "2025-01-04",
+        "event_type": "Take Home",
+        "description": "Final of MATH204"
+    },
+    {
+        "date": "2024-11-25",
+        "event_type": "Take Home",
+        "description": "LAB3 of CS303"
+    },
+    {
+        "date": "2024-12-09",
+        "event_type": "Take Home",
+        "description": "LAB4 of CS303"
+    },
+    {
+        "date": "2024-12-16",
+        "event_type": "Project",
+        "description": "TP1 of CS303"
+    },
+    {
+        "date": "2024-12-25",
+        "event_type": "Project",
+        "description": "TP2 of CS303"
+    },
+    {
+        "date": "2025-01-03",
+        "event_type": "Project",
+        "description": "TP3 of CS303"
+    },
+    {
+        "date": "2024-11-02",
+        "event_type": "Exam",
+        "description": "Midterm I of CS303"
+    },
+    {
+        "date": "2024-12-14",
+        "event_type": "Exam",
+        "description": "Midterm II of CS303"
+    },
+    {
+        "date": "2025-01-03",
+        "event_type": "Exam",
+        "description": "Final of CS303"
+    },
+    {
+        "date": "2024-11-30",
+        "event_type": "Project",
+        "description": "Proposal of DSA210"
+    },
+    {
+        "date": "2024-01-10",
+        "event_type": "Project",
+        "description": "Project Final of DSA210"
+    },
+    {
+        "date": "2024-11-10",
+        "event_type": "Exam",
+        "description": "Midterm of DSA210"
+    },
+    {
+        "date": "2025-01-02",
+        "event_type": "Exam",
+        "description": "Final of DSA210"
+    }
+]
