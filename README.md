@@ -66,6 +66,9 @@ This project investigates the relationship between social media usage (Instagram
 ### Social Media Usage Around Deadlines
 ![Usage Around Deadlines](https://github.com/talatsamicibik/DSA-210_TermProject/blob/main/usage_around_deadlines.png)
 
+### Chi-Square Distribution
+![Chi-Square Distribution](https://github.com/talatsamicibik/DSA-210_TermProject/blob/main/chi_square_distribution.png)
+
 ## Results
 - **Regression Analysis**:
   - Usage trends relative to deadlines were weak and not statistically significant.
