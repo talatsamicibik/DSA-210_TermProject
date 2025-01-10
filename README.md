@@ -83,8 +83,8 @@ This project investigates the relationship between social media usage (Instagram
 
 ## Technologies Used
 - **Python**:
-  -pandas, numpy for data manipulation.
-  -matplotlib, seaborn for visualization.
-  -statsmodels for statistical analysis.
-  -scikit-learn for regression models.
-  -Jupyter Notebook for interactive analysis.
+  - pandas, numpy for data manipulation.
+  - matplotlib, seaborn for visualization.
+  - statsmodels for statistical analysis.
+  - scikit-learn for regression models.
+  - Jupyter Notebook for interactive analysis.
