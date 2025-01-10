@@ -61,7 +61,8 @@ This project investigates the relationship between social media usage (Instagram
 ![Regression Analysis](figures/regression_analysis.png)
 
 ### Polynomial Regression
-![Polynomial Regression](figures/polynomial_regression_usage.png)
+![Polynomial Regression](![image](https://github.com/user-attachments/assets/a96c0523-c527-4e7c-be11-eb4a23da7b23)
+)
 
 ### Social Media Usage Around Deadlines
 ![Usage Around Deadlines](figures/usage_vs_deadlines.png)
