@@ -56,17 +56,6 @@ This project investigates the relationship between social media usage (Instagram
     - **p-value**: 0.9999
     - **Conclusion**: Failed to reject \( H_0 \), indicating **no statistically significant relationship** between social media usage and deadlines.
 
-## Visualizations
-### Regression Analysis
-![Regression Analysis](figures/regression_analysis.png)
-
-### Polynomial Regression
-![Polynomial Regression](![image](https://github.com/user-attachments/assets/a96c0523-c527-4e7c-be11-eb4a23da7b23)
-)
-
-### Social Media Usage Around Deadlines
-![Usage Around Deadlines](figures/usage_vs_deadlines.png)
-
 ## Results
 - **Regression Analysis**:
   - Usage trends relative to deadlines were weak and not statistically significant.
