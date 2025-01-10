@@ -4,7 +4,7 @@
 This project investigates the relationship between social media usage (Instagram and YouTube) and academic deadlines. The goal was to determine whether proximity to deadlines significantly affects daily social media usage.
 
 ## Hypothesis
-**"Social media usage increases as deadlines approach."**
+**"I tend to use social media more when I am under the inluence of academic stress."**
 
 ## Methodology
 
