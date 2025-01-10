@@ -20,7 +20,7 @@ This project investigates the relationship between social media usage (Instagram
   - Daily usage time was calculated based on video durations and timestamps.
 
 - **Academic Deadlines**:
-  - Manually documented as a JSON file, including all key academic events like exams, project deadlines, and homework due dates.
+  - Manually documented as a JSON file (can be found inside the project documents), including all key academic events like exams, project deadlines, and homework due dates. 
 
 ### Data Preprocessing
 - **Daily Aggregation**:
