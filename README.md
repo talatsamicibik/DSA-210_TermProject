@@ -61,7 +61,7 @@ This project investigates the relationship between social media usage (Instagram
 ![Regression Analysis](https://github.com/talatsamicibik/DSA-210_TermProject/blob/main/regression_analysis.png)
 
 ### Polynomial Regression
-![Polynomial Regression](figures/polynomial_regression_usage.png)
+![Polynomial Regression](https://github.com/talatsamicibik/DSA-210_TermProject/blob/main/polynomial_regression_usage.png)
 
 ### Social Media Usage Around Deadlines
 ![Usage Around Deadlines][([figures/usage_vs_deadlines.png](https://github.com/talatsamicibik/DSA-210_TermProject/blob/main/regression_usage_around_deadlines.png))](https://github.com/talatsamicibik/DSA-210_TermProject/blob/main/usage_around_deadlines.png)
